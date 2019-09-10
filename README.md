@@ -1,2 +1,4 @@
 # 6-in-row
-Reference https://github.com/junxiaosong/AlphaZero_Gomoku
+Reference: Junxiao Song <AlphaZero_Gomoku> https://github.com/junxiaosong/AlphaZero_Gomoku
+
+Apply deterministic move for training
